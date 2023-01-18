@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jamal Melhem</h1>
-<h3 align="center">A passionate Full-stack developer from Russia</h3>
+<h3 align="center">A passionate Full-stack developer from Russia. I'm a recent graduate of the Saint-Petersburg University of Management Technologies and Economics (Applied Informatics). My current tech stack is Ruby On Rails,  Node.js, MongoDB, MySQL, JavaScript, Vue, React , React, HTML, CSS. Testing tools: RSpec, Capybara, Jest, Mocha.
+I am interested in web accessibility, and UI, UX desgin in general.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melhemm&label=Profile%20views&color=0e75b6&style=flat" alt="melhemm" /> </p>
 
