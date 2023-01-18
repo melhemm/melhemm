@@ -6,8 +6,6 @@ I am interested in web accessibility, and UI, UX desgin in general.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melhemm" alt="melhemm" /></a> </p>
 
-- 🌱 I’m currently learning **React, Redux**
-
 - 📫 How to reach me **jamalmulhemm@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
