@@ -1,5 +1,6 @@
 # 💫 About Me:
-Full-stack developer from Russia. I'm a recent graduate of the Saint-Petersburg University of Management Technologies and Economics (Applied Informatics). My current tech stack is Ruby On Rails,  Node.js, MongoDB, MySQL, JavaScript, Vue, React, HTML, CSS. Testing tools: RSpec, Capybara, Jest, Mocha.<br>I am interested in web accessibility, and UI, UX desgin in general.
+Full-stack developer from Russia. I recently graduated from Saint-Petersburg University of Management Technologies and Economics (Applied Informatics). My current tech stack is Ruby On Rails, JavaScript, Node.js, MongoDB, MySQL, Vue, React, HTML, CSS. <br>
+Testing tools: RSpec, Capybara, Jest, Mocha.<br>I am interested in web accessibility, and UI, UX desgin in general.
 
 
 ## 🌐 Socials:
